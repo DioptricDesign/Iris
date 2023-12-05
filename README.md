@@ -1,4 +1,4 @@
 # Iris
-A high contrast, dark color palette with mauve accents. The Iris theme is intended for general text processing. It was developed with Alacritty in mind.
+The Iris color palette is intended for legible text processing. It is a high contrast, dark color palette with mauve accents. Iris is currently available for the Alacritty terminal emulator. 
 ## Palette
 ![Iris Color Palette](palette.png)
